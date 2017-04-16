@@ -1,6 +1,8 @@
 # LanguageGuesser
 
-Details  
+DETAILS
+
+
 Paper : Contains the paper "N-Gram-Based Text Categorization (1994) - William B. Cavnar , John M. Trenkle"  
 
 
